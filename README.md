@@ -8,9 +8,9 @@
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 ### 🚀 About Me
-- 🔭 Currently crafting **full-stack apps & blockchain solutions**
-- 🌱 Deep diving into **Quantum Computing** & **Advanced Algorithms**
-- 👯 Open to collabs on **open-source projects** and **creative billing software**
+- 🔭 Currently crafting **full-stack apps & cloud solutions**.
+- 🌱 Deep diving research into **Quantum Computing** & **Quantum Algorithms**.
+- 👯 Open to collabs on **open-source projects**.
 ---
 
 ### 💡 What I Code With
