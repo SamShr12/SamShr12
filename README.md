@@ -1,9 +1,7 @@
-<div style="background-color:#0d0d0d; color:#00ff00; padding:20px; font-family:monospace; border-radius:10px;">
 
-<!-- Boot-up ASCII Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&multiline=true&height=150&lines=Initializing+terminal...;Loading+modules...;Connecting+to+GitHub...;Access+Granted+%E2%9C%93)](https://git.io/typing-svg)
+[![Booting...](https://readme-typing-svg.herokuapp.com?color=00ff00&multiline=true&height=140&lines=Initializing%20terminal...%0ALoading%20modules...%0AConnecting%20to%20GitHub...%0AAccess%20Granted%20%E2%9C%93)](https://git.io/typing-svg)
 
-```
+```text
    __        __   _                            _     
    \ \      / /__| | ___ ___  _ __ ___   ___  | |_ ___
     \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \
@@ -11,20 +9,20 @@
       \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  \__\___|
 ```
 
-```
-        .----.
-       /      \
-      |  ☠️   |
-       \      /
-        '----'
-       Hacker Console v1.0
+```text
+    .----.
+   /      \
+  |  (•)   |
+   \      /
+    '----'
+   Hacker Console v1.0
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=$+whoami;>+Samyam+—+Software+Engineer+in+the+making;>+Quantum+Computing+Learner)](https://git.io/typing-svg)
+[![whoami](https://readme-typing-svg.herokuapp.com?color=00ff00&multiline=true&height=70&lines=$%20whoami%0ASamyam%20—%20Software%20Engineer%20in%20the%20making%0AQuantum%20Computing%20Learner)](https://git.io/typing-svg)
 
 ```bash
 $ skills --list
-> C | Java | JavaScript | Python | Qiskit
+> C | Java | JavaScript | Python
 > Next.js | Prisma | SQLite | Tailwind CSS
 > Systems Programming | Game Dev | Circuit Simulation
 
@@ -38,7 +36,7 @@ $ education --now
 > Self-studying Quantum Mathematics & Quantum Computing
 
 $ contact --email
-> samyamshr07@gmail.com
+> samyamshr@gmail.com
 
 $ status --now
 > Learning new tech & breaking less stuff than yesterday 🚀
@@ -46,6 +44,4 @@ $ status --now
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=$+echo+%22Thanks+for+visiting!%22;$+exit)](https://git.io/typing-svg)
-
-</div>
+[![bye](https://readme-typing-svg.herokuapp.com?color=00ff00&height=40&lines=$%20echo%20Thanks%20for%20visiting!%0A$%20exit)](https://git.io/typing-svg)
