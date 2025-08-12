@@ -42,37 +42,12 @@
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-
-![Samyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyam&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam&layout=compact&theme=radical)
-
-</div>
-
----
 
 ### 📫 Let’s Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyam)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyam@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samshr)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyamshr07@gmail.com)
 
 </div>
-
----
-
-### 🖥️ Fun Terminal Snippet
-
-```bash
-# Welcome to my GitHub!
-
-echo "Let's build something epic together!"
-
-git clone https://github.com/samyam
-cd samyam
-code .
