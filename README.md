@@ -1,6 +1,78 @@
+<!-- Banner with a cool typing effect -->
+![Header](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=40&center=true&vCenter=true&width=600&lines=Hey,+I%27m+Samyam!;Welcome+to+my+GitHub+Profile;Let%27s+build+something+awesome🚀)
 
-[![Booting...](https://readme-typing-svg.herokuapp.com?color=00ff00&multiline=true&height=140&lines=Initializing%20terminal...%0ALoading%20modules...%0AConnecting%20to%20GitHub...%0AAccess%20Granted%20%E2%9C%93)](https://git.io/typing-svg)
+---
 
-[![whoami](https://readme-typing-svg.herokuapp.com?color=00ff00&multiline=true&height=70&lines=$%20whoami%0ASamyam%20—%20Software%20Engineer%20in%20the%20making%0AQuantum%20Computing%20Learner)](https://git.io/typing-svg)
+# 👋 Hi, I'm Samyam
 
-[![bye](https://readme-typing-svg.herokuapp.com?color=00ff00&height=40&lines=$%20echo%20Thanks%20for%20visiting!%0A$%20exit)](https://git.io/typing-svg)
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
+### 🚀 About Me
+- 🔭 Currently crafting **full-stack apps & blockchain solutions**
+- 🌱 Deep diving into **Quantum Computing** & **Advanced Algorithms**
+- 👯 Open to collabs on **open-source projects** and **creative billing software**
+- 💬 Ask me about **C, Java, React, Next.js, and game dev**
+- 📫 Reach me at: [samyam@example.com](mailto:samyam@example.com)
+
+---
+
+### 💡 What I Code With
+
+<div align="center">
+
+<!-- Language badges -->
+![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br>
+
+<!-- Frameworks badges -->
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+<br>
+
+<!-- Tools badges -->
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+
+![Samyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyam&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 📫 Let’s Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyam)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyam@example.com)
+
+</div>
+
+---
+
+### 🖥️ Fun Terminal Snippet
+
+```bash
+# Welcome to my GitHub!
+
+echo "Let's build something epic together!"
+
+git clone https://github.com/samyam
+cd samyam
+code .
