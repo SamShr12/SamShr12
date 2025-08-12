@@ -1,5 +1,5 @@
 <!-- Banner with a cool typing effect -->
-![Header](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=40&center=true&vCenter=true&width=600&lines=Hey,+I%27m+Samyam!;Welcome+to+my+GitHub+Profile;Let%27s+build+something+awesome🚀)
+![Header](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=40&center=true&vCenter=true&width=800&lines=Hey,+I%27m+Samyam!;Welcome+to+my+GitHub+Profile;Let%27s+build+something+awesome🚀)
 
 ---
 
@@ -11,9 +11,6 @@
 - 🔭 Currently crafting **full-stack apps & blockchain solutions**
 - 🌱 Deep diving into **Quantum Computing** & **Advanced Algorithms**
 - 👯 Open to collabs on **open-source projects** and **creative billing software**
-- 💬 Ask me about **C, Java, React, Next.js, and game dev**
-- 📫 Reach me at: [samyam@example.com](mailto:samyam@example.com)
-
 ---
 
 ### 💡 What I Code With
